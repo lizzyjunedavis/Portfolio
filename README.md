@@ -22,10 +22,8 @@ I’ve written for **AWS, Intuit, and other enterprise technology companies**, a
 
 ### 🔧 Implementation Guides
 Step-by-step technical documentation designed for deployment and configuration.  
-- [Instance Scheduler on AWS](implementation-guides/Instance-Scheduler-on-AWS.pdf)  
 - [Connected Mobility Solution on AWS](implementation-guides/Connected-Mobility-Solution-on-AWS.pdf)  
-- [QnABot on AWS](implementation-guides/QnABot-on-AWS.pdf)  
-- [Well-Architected Cost Optimization Pillar](implementation-guides/WellArchitected-Cost-Optimization-Pillar.pdf)  
+- [QnABot on AWS](implementation-guides/QnABot-on-AWS.pdf)   
 
 ### 🗂️ Decision Guides
 Helping customers make informed choices between multiple technical options.  
