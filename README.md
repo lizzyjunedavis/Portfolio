@@ -17,13 +17,3 @@ I specialize in:
 I’ve written for **AWS, Intuit, and other enterprise technology companies**, and I love creating documentation that makes complex systems approachable.
 
 ---
-
-## 📂 Portfolio Samples
-
-### 🔧 Implementation Guides
-Step-by-step technical documentation designed for deployment and configuration.  
-- [Connected Mobility Solution on AWS](AWS Implementation Guides/connected-mobility-solution-on-aws.pdf)  
-- [QnABot on AWS](AWS Implementation Guides/QnABot-on-AWS.pdf)   
-
-### 🗂️ Decision Guides
-Helping customers make informed choices between multiple technical options.  
